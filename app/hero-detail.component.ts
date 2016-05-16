@@ -5,6 +5,7 @@ import { RouteParams } from '@angular/router-deprecated';
 
 @Component({
     selector: `my-hero-detail`,
+    styleUrls: ['app/hero-detail.component.css'],
     templateUrl: 'app/hero-detail.component.html'
 })
 
